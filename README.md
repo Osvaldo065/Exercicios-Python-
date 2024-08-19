@@ -9,6 +9,9 @@ Docente do curso: Luiz Otávio Miranda
 Nome do curso: Curso de Python 3 do básico ao avançado - com projetos reais
 
 
+Estou utilizando esse repositório para adicionar exercícios que venho praticando além do curso.
+
+
 
 
 
