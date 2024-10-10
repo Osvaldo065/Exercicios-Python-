@@ -1,4 +1,4 @@
-# Apresemtação
+# Apresentação
 
 Olá a todos, me chamo Osvaldo Dias, sou estudante de Análise e Desenvolvimento de Sistemas, e venho compartilhar com vocês esse repositório, será possível ver alguns projetos e exercícios em Python que foram feitos por mim. 
 
